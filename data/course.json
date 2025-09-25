@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Society",
+      "Women's Studies"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ]
+  ],
+  "legacy_uid": "642bc258-13ce-a617-6bdf-fb0f317a89a3",
+  "instructors": {
+    "content": [
+      "d9940baf-316a-2166-6964-0f257e9d9853"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c71ffbd8-666c-8bbe-eaec-a1bf11dc5050",
+    "website": "21g-022j-international-womens-voices-spring-2004"
+  },
+  "course_title": "International Women's Voices",
+  "course_description": "International Women\u2019s Voices has several objectives. It introduces students to a variety of works by contemporary women writers from Asia, Africa, the Middle East, Latin America and North America. The emphasis is on non-western writers. The readings are chosen to encourage students to think about how each author\u2019s work reflects a distinct cultural heritage and to what extent, if any, we can identify a female voice that transcends national cultures. In lectures and readings distributed in class, students learn about the history and culture of each of the countries these authors represent. The way in which colonialism, religion, nation formation and language influence each writer is a major concern of this course. In addition, students examine the patterns of socialization of women in patriarchal cultures, and how, in the imaginary world, authors resolve or understand the relationship of the characters to love, work, identity, sex roles, marriage, and politics.\n",
+  "department_numbers": [
+    "21G",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.141J",
+  "primary_course_number": "21G.022J",
+  "course_image_thumbnail": {
+    "content": "4df84877-d10c-fce2-6776-bd6c4948f5a7",
+    "website": "21g-022j-international-womens-voices-spring-2004"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Activity Assignments"
+  ],
+  "site_uid": "15b83949-4d4e-4809-a31f-93a911f4b1c4",
+  "site_short_id": "21g.022j-spring-2004",
+  "site_url_path": "courses/21g-022j-international-womens-voices-spring-2004",
+  "title": "Course Metadata"
+}
