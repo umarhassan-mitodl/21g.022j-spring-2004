@@ -5,6 +5,8 @@ description: This resource contains the information regarding thought questions 
 file: /courses/21g-022j-international-womens-voices-spring-2004/6041d5ac588f1e76f5ca0fa52ca7cc80_MIT21G_022JS04_f_hu.pdf
 file_size: 137413
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
