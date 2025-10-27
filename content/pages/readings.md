@@ -183,7 +183,7 @@ Teng, Jinhua Emma. "The Construction of the 'Traditional Chinese Woman' in the W
 
 Wolf, Margery, and Roxanne Witke, eds. *Women in Chinese Society*. Stanford: Stanford University Press, 1975.
 
-"[Women in China: Free Market Outcasts](http://revcom.us/a/v20/990-99/999/china.htm)." *Revolutionary Worker Online*.
+"{{% resource_link "05ef3386-346d-43f6-bc61-31f10facbc23" "Women in China: Free Market Outcasts" %}}." *Revolutionary Worker Online*.
 
 Yang, Gladys. "A New Woman Writer Chen Rong and Her Story 'At Middle Age.'" In *Chinese Literature*. Vol. 10. Beijing, China, 1980.
 
